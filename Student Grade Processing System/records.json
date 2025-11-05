@@ -1,0 +1,36 @@
+[
+    {"name": "Alice Johnson", "score": "38", "attendance": "93"},
+    {"name": "Bob Smith", "score": "ninety", "attendance": "88"},
+    {"name": "Carol White", "score": "150", "attendance": "95"},
+    {"score": "75", "attendance": "80"},
+    {"name": "Dave Brown", "score": "78", "attendance": "92.5"},
+    {"name": "Eve Davis", "score": "92", "attendance": "-10"},
+
+    {"name": "Maga Lora", "score": "23", "attendance": "86"},
+    {"name": "Will Smith", "score": "23", "attendance": "34"},
+    {"name": "William Anne", "score": "189", "attendance": "42"},
+    {"score": "47", "attendance": "80"},
+    {"name": "Micheal Jack", "score": "87", "attendance": "82.6"},
+    {"name": "Mayo Kolo", "score": "37", "attendance": "-23"},
+
+    {"name": "Guru Jank", "score": "73", "attendance": "93"},
+    {"name": "Zerry Dl", "score": "89", "attendance": "100"},
+    {"name": "Star Wizkid", "score": "150", "attendance": "98.1"},
+    {"score": "96", "attendance": "48"},
+    {"name": "David Obo", "score": "99", "attendance": "98.5"},
+    {"name": "Ronaldo jr", "score": "88", "attendance": "93.76"},
+
+    {"name": "Vini Jr", "score": "62", "attendance": "30"},
+    {"name": "Burna Boy", "score": "84", "attendance": "74"},
+    {"name": "Joe Boy", "score": "17", "attendance": "95"},
+    {"score": "67", "attendance": "59"},
+    {"name": "Davy Dale", "score": "98", "attendance": "47"},
+    {"name": "Zoro wise", "score": "16", "attendance": "-74"},
+
+    {"name": "Gojo Powa", "score": "40", "attendance": "43"},
+    {"name": "Mary Jane", "score": "49", "attendance": "88"},
+    {"name": "Manny Mai", "score": "97", "attendance": "45"},
+    {"score": "80", "attendance": "87"},
+    {"name": "Dane Day", "score": "80", "attendance": "92.5"},
+    {"name": "Lollipop Bby", "score": "46", "attendance": "77"}
+]
